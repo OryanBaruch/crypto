@@ -1,0 +1,6 @@
+1: Fetch data throught HOMEPAGE component. (sun of App.js (to remain app clean.))
+2:Call the Api on click of a button (So i dont call all the apis in one time, load it each call.)
+3.Rechart
+4.Table
+
+5.Web socket, need to learn that.
